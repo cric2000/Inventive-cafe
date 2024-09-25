@@ -2,7 +2,7 @@
 
 ## Responsive website
 
-### https://cric2000.github.io/Inventive-cafe/index.html
+### https://cric2000.github.io/UI_responsive/
 
 ### Preview
 
